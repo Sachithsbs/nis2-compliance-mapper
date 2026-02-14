@@ -1,0 +1,4 @@
+We use TLS encryption for all API communications and enforce MFA for admin accounts.
+We continuously monitor logs and send alerts to the SOC for incident handling.
+Third-party vendors must comply with security clauses and periodic audits.
+We perform vulnerability scanning weekly and apply patches based on risk ratings.
